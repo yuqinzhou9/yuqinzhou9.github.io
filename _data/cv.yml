@@ -8,25 +8,43 @@
     - name: Languages
       value: Chinese (native), English (fluent), and German (beginner)
 
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: PhD
+#       institution: University of Zurich, Zurich, Switzerland
+#       year: 1905
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
+#     - title: Federal teaching diploma
+#       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+#       year: 1900
+#       description:
+#         - Description 1.
+#         - Description 2.
+
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: University of Copenhagen - MSc in Information Technology and Cognition
+      # institution: University of Zurich, Zurich, Switzerland
+      year: 2021 - NOW
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - GPA: 11/12
+        
+    - title: Tianjin University - BA in English (linguistic track)
+      # institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 2017-2021
       description:
-        - Description 1.
+        - GPA: 3.72/4.0
         - Description 2.
+
+      
 
 - title: Working Experience
   type: time_table
