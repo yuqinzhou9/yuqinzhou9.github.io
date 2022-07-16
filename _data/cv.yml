@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Yuqin Zhou
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1st December 1999
     - name: Languages
-      value: English, German
+      value: Chinese (native), English (fluent), and German (beginner)
 
 - title: Education
   type: time_table
@@ -28,7 +28,7 @@
         - Description 1.
         - Description 2.
 
-- title: Experience
+- title: Working Experience
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
