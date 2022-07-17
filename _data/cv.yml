@@ -15,7 +15,7 @@
       year: 2021 - NOW
       description:
         - "Grade: 11.0/12.0"
-        - title: "Important modules:"
+        - title: "Relevant Modules:"
           contents:
             Scientific Programming, Introduction to Data Science, Language Processing 1/2, Cognitive Science 1/2, Vision and Image Processing, Neural Information Retrieval.
 
@@ -23,15 +23,54 @@
     - title: Tianjin University - BA in English
       year: 2017-2021
       description:
-        - title: "Grade: 3.72/4.0"
+        - title: "Grade: 3.72/4.0 (top 20%)"
           contents:
-          - Awarded <b>Merit Student</b>
+          - Awarded the <b>Merit Scholarship</b>
         - title: "Thesis: <i>Difference in Use of English Article System by Chinese and English Native Users Based on Semantic Wheel</i>."
           contents:
           - Awarded the <b>Outstanding Undergraduate Thesis</b>
-        - title: "Important Modules:"
+        - title: "Relevant Modules:"
           contents: 
           - Syntax 1/2, Introduction to Linguistics, Fundamentals of Computer Software, Introduction of Advanced Mathematics
+
+- title: Academic Experience
+  type: time_table
+  contents:
+    - title: Participant, Data and Policy Summer Scholar Online Programe, University of Chicago
+      year: 2020-07 - 2020-09
+      description:
+        - "Enhanced statistical and R programming skills through two seven-weeks courses: Data Analytics and R Programming."
+        - "Engaged in policy research project: examining the correlation between revenue and territorial control in Afghanistan."
+    
+    
+    - title: Team Leader, National College Students Innovation and Entrepreneurship Project, Tianjin University
+      year: 2019-04 – 2020-06
+      description:
+      - Conducted a student project at Tianjin University on analysing the translation strategies of martial arts novels.
+      - Exaimed key description words concerning place, name, and chivalrous theme from the translation of Louis Cha’s four major works, comprised of nearly 2 million words.
+
+    - title: Participant, Social Science Methods and Research Training Program, Peking University
+      year: 2019-06 - 2019-07
+      - Studied statistics and probabilities, including sampling, hypothesis testing, Bayesian inference, instrumental variables, differences in differences, and regression discontinuity.
+      - Learned to use R Programming and SPSS to analyze demographic data.
+
+- title: Working Experience
+  type: time_table
+  contents:
+      - title: Research Intern
+      institution: International Cooperation Center of National Development and Reform Commission, China
+      year: 2021-02 - 2021-6
+      description:
+        - Description 1.
+        - Description 2.
+  
+    - title: HR Intern
+      institution: China International Intellectech Corporation, China
+      year: 2019-07 - 2019-09
+      description:
+        - Provided clients with career assessment and personality tests and completed the corresponding reports
+        - Collected and cleansed data using Excel to provide the China National Chemical Corporation with talent review services
+
 
 # - title: Honors and Awards
 #   type: time_table
@@ -43,8 +82,6 @@
 #     - year: 2029
 #       items: 
 #         - Max Planck Medal
-
-
 
 
 
