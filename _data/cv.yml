@@ -19,7 +19,6 @@
           contents:
             Scientific Programming, Introduction to Data Science, Language Processing 1/2, Cognitive Science 1/2, Vision and Image Processing, Neural Information Retrieval.
 
-
     - title: Tianjin University - BA in English
       year: 2017-2021
       description:
@@ -57,7 +56,7 @@
 - title: Working Experience
   type: time_table
   contents:
-      - title: Research Intern
+    - title: Research Intern
       institution: International Cooperation Center of National Development and Reform Commission, China
       year: 2021-02 - 2021-6
       description:
