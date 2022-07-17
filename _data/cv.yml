@@ -8,6 +8,39 @@
     - name: Languages
       value: Chinese (native), English (fluent), and German (beginner)
 
+- title: Education
+  type: time_table
+  contents:
+    - title: University of Copenhagen - MSc in Information Technology and Cognition
+      year: 2021 - NOW
+      description:
+        - "Grade: 11.0/12.0"
+
+
+    - title: Tianjin University - BA in English
+      year: 2017-2021
+      description:
+        - "Grade: 3.72/4.0"
+          - Awarded **Merit Student**; **Excellent Student Cadre**
+        - "Thesis: Difference in Use of English Article System by Chinese and English Native Users Based on Semantic Wheel."
+          contents:
+          - Awarded the **Outstanding Undergraduate Thesis 2020**
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items: 
+        - Nobel Prize in Physics 
+        - Matteucci Medal
+    - year: 2029
+      items: 
+        - Max Planck Medal
+
+
+
+
+
 # - title: Education
 #   type: time_table
 #   contents:
@@ -27,21 +60,7 @@
 #       description:
 #         - Description 1.
 #         - Description 2.
-
-- title: Education
-  type: time_table
-  contents:
-    - title: University of Copenhagen - MSc in Information Technology and Cognition
-      year: 2021 - NOW
-      description:
-        - "Grade: 11.0/12.0"
-
-    - title: Tianjin University - BA in English (linguistic track)
-      year: 2017-2021
-      description:
-        - "Grade: 3.7/4.0"
-
-      
+ 
 
 # - title: Working Experience
 #   type: time_table
