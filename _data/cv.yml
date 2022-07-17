@@ -20,22 +20,23 @@
     - title: Tianjin University - BA in English
       year: 2017-2021
       description:
-        - "Grade: 3.72/4.0"
-          - Awarded **Merit Student**; **Excellent Student Cadre**
-        - "Thesis: Difference in Use of English Article System by Chinese and English Native Users Based on Semantic Wheel."
+        -title: "Grade: 3.72/4.0"
+          contents:
+          - Awarded **Merit Student** ; **Excellent Student Cadre**
+        -title: "Thesis: Difference in Use of English Article System by Chinese and English Native Users Based on Semantic Wheel."
           contents:
           - Awarded the **Outstanding Undergraduate Thesis 2020**
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
 
 
 
