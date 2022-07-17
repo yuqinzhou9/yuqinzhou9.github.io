@@ -15,6 +15,9 @@
       year: 2021 - NOW
       description:
         - "Grade: 11.0/12.0"
+        - title: "Important modules:"
+          contents:
+            Scientific Programming, Introduction to Data Science, Language Processing 1/2, Cognitive Science 1/2, Vision and Image Processing, Neural Information Retrieval.
 
 
     - title: Tianjin University - BA in English
@@ -22,10 +25,13 @@
       description:
         - title: "Grade: 3.72/4.0"
           contents:
-          - Awarded <b>Merit Student</b>; **Excellent Student Cadre**
+          - Awarded <b>Merit Student</b>
         - title: "Thesis: <i>Difference in Use of English Article System by Chinese and English Native Users Based on Semantic Wheel</i>."
           contents:
-          - Awarded the <i>Outstanding Undergraduate Thesis</i>
+          - Awarded the <b>Outstanding Undergraduate Thesis</b>
+        - title: "Important Modules:"
+          contents: 
+          - Syntax 1/2, Introduction to Linguistics, Fundamentals of Computer Software, Introduction of Advanced Mathematics
 
 # - title: Honors and Awards
 #   type: time_table
