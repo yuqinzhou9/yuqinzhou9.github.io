@@ -45,13 +45,14 @@
     - title: Team Leader, National College Students Innovation and Entrepreneurship Project, Tianjin University
       year: 2019-04 – 2020-06
       description:
-      - Conducted a student project at Tianjin University on analysing the translation strategies of martial arts novels.
-      - Exaimed key description words concerning place, name, and chivalrous theme from the translation of Louis Cha’s four major works, comprised of nearly 2 million words.
+        - Conducted a student project at Tianjin University on analysing the translation strategies of martial arts novels.
+        - Exaimed key description words concerning place, name, and chivalrous theme from the translation of Louis Cha’s four major works, comprised of nearly 2 million words.
 
     - title: Participant, Social Science Methods and Research Training Program, Peking University
       year: 2019-06 - 2019-07
-      - Studied statistics and probabilities, including sampling, hypothesis testing, Bayesian inference, instrumental variables, differences in differences, and regression discontinuity.
-      - Learned to use R Programming and SPSS to analyze demographic data.
+      description:
+        - Studied statistics and probabilities, including sampling, hypothesis testing, Bayesian inference, instrumental variables, differences in differences, and regression discontinuity.
+        - Learned to use R Programming and SPSS to analyze demographic data.
 
 - title: Working Experience
   type: time_table
