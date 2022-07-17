@@ -6,6 +6,7 @@ description: This was my first individual course project in the field of NLP. Fo
 img: assets/img/12.jpg
 importance: 1
 # category:
+---
 
 
 This is the report, <a href="https://github.com/yuqinzhou9/course-neural_information_retrieval/blob/main/NIR%20report.pdf">Report</a>
