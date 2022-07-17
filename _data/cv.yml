@@ -25,8 +25,9 @@
         - title: "Grade: 3.72/4.0 (top 20%)."
           contents:
             - Awarded the <b>Merit Scholarship</b>.
-        - title: "Thesis: <i>Difference in Use of English Article System by Chinese and English Native Users Based on Semantic Wheel</i>."
+        - title: "Thesis:"
           contents:
+            - <i>Difference in Use of English Article System by Chinese and English Native Users Based on Semantic Wheel</i>.
             - Awarded the <b>Outstanding Undergraduate Thesis</b>.
         - title: "Relevant Modules:"
           contents: 
@@ -35,23 +36,25 @@
 - title: Academic Experience
   type: time_table
   contents:
-    - title: Participant, Data and Policy Summer Scholar Online Program, University of Chicago.
+    - title: Participant, Data and Policy Summer Scholar Online Program.
+      institution: University of Chicago, U.S.
       year: 2020-07 - 2020-09
       description:
         - "Enhanced statistical and R programming skills through two seven-weeks courses: Data Analytics and R Programming."
-        - "Engaged in a policy research project: examining the correlation between revenue and territorial control in Afghanistan."
+        - "Engaged in one policy research project, examining the correlation between revenue and territorial control in Afghanistan."
     
-    
-    - title: Team Leader, National College Students Innovation and Entrepreneurship Project, Tianjin University
+    - title: Team Leader, National College Students Innovation and Entrepreneurship Project.
+      institution: Tianjin University, China
       year: 2019-04 – 2020-06
       description:
-        - Conducted a research project on analysing the translation strategies of martial arts novels.
-        - Focused on key description words concerning place, name, and chivalrous theme from the translation of Louis Cha’s four major works.
+        - Analysed the translation strategies of Louis Cha’s four martial arts novels Louis.
+        - Focused on key description words concerning place, name, and chivalrous theme.
 
-    - title: Participant, Social Science Methods and Research Training Program, Peking University
+    - title: Participant, Social Science Methods and Research Training Program.
+      institution: Peking University, China
       year: 2019-06 - 2019-07
       description:
-        - Studied statistics and probability
+        - Studied statistics and probability.
         - Learned to use R Programming and SPSS to analyze demographic data.
 
 - title: Working Experience
@@ -61,23 +64,21 @@
       institution: International Cooperation Center of National Development and Reform Commission, China.
       year: 2021-02 - 2021-6
       description:
-        - Description 1.
-        - Description 2.
+        - Formulated project evaluation and development of plans for local governments
   
-    - title: HR Intern
+    - title: Consultant Intern
       institution: China International Intellectech Corporation, China.
       year: 2019-07 - 2019-09
       description:
-        - Provided clients with career assessment and personality tests and completed the corresponding reports.
-        - Using Excel to collect and cleanse data to provide talent review services for the China National Chemical Corporation.
-
+        - Provided clients with individual career assessments and corresponding reports.
+        - Used Excel to collect and clean data to provide talent review services to clients.
 
 - title: SKILLS AND INTERESTS
   type: list
   contents:
-    - <u>Programming Languages:</u> Python, R
-    - <u>Frameworks and Tools:</u> PyTorch, NumPy, Matplotlib, Pandas, Git, LaTeX, Microsoft Suite, PRAAT
-    - <u>Hobbies:</u> Badminton (College Badminton Team Member), Swimming, Bicycling
+    - <u>Programming Languages:</u> Python, R.
+    - <u>Frameworks and Tools:</u> PyTorch, NumPy, Matplotlib, Pandas, Git, LaTeX, Microsoft Suite, PRAAT.
+    - <u>Hobbies:</u> Badminton (College Badminton Team Member), Swimming, Bicycling.
 
 
 - title: Honors and Awards
@@ -87,10 +88,10 @@
       items: 
         - Merit Student
         - Excellent Student Cadre
+        - Student Representative Prize for Outstanding Contribution
         - Advanced Individual of Volunteer Service
         - Advanced Individual of Social Practice
-        - Student Representative Prize for Outstanding Contribution
-
+        - Advanced Individual of Sports activities
 
 
 # - title: Education
