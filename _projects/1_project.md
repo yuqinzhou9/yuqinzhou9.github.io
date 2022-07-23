@@ -1,23 +1,16 @@
 ---
 layout: page
-title: Neural information Retrieval 
-description: This was my first individual course project in the field of NLP. Fortunately, my model performed best in the Neural information Retrieval course offered in 2022 at the University of Copenhagen.
+title: Neural Information Retrieval 
+description: "[14 June 2022] This was my first individual course project in the field of NLP. Fortunately, my model performed best in the Neural information Retrieval course offered in 2022 at the University of Copenhagen".
 
-img: assets/img/12.jpg
+img: assets/img/Bi_vs_Cross-Encoder.png
 importance: 1
 # category:
 ---
 
+### Background
 
-## background
-This paper uses the NIR2022 dataset to eval- uate various search algorithms: probabilistic and language models, divergence from random- ness based models and neural retrieval models. In addition, query expansion techniques are used to improve effectiveness. The findings highlight the merit of embeddings, especially the direct use of them to compute similarities between queries and documents. The Cross- Encoder model using segments secured 1th po- sition in the NIR course.
-### background
-
-qweqw
-#### background
-qweqw
-
-This is the report, <a href="https://github.com/yuqinzhou9/course-neural_information_retrieval/blob/main/NIR%20report.pdf">Report</a>
+This project was completed under the guidance of the course, <a href="https://github.com/yuqinzhou9/course-neural_information_retrieval/blob/main/NIR_course_description.pdf">Neural Information Retrieval (NIR)</a>, in University of Copenhagen. The goal of this project was to design appropriate strategies for indexing and to explore text retrieval models.
 
 
-<a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a>
+This <a href="https://github.com/yuqinzhou9/course-neural_information_retrieval/blob/main/NIR%20report.pdf">course report</a> uses the NIR2022 dataset to evaluate various search algorithms: probabilistic and language models, divergence from randomness based models and neural retrieval models. In addition, query expansion techniques are used to improve effectiveness. The findings highlight the merit of embeddings, especially the direct use of them to compute similarities between queries and documents. The Cross-Encoder model using segments secured 1th position in the NIR course. The <a href="https://github.com/yuqinzhou9/course-neural_information_retrieval/tree/main/Code">code</a>  can be found here.
