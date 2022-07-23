@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Features, Architecture, Combine Them Together
+description: "[12 June 2022] "
 img: assets/img/3.jpg
 importance: 2
-# category: 
+category: Courses
 ---
 
 Every project has a beautiful feature showcase page.

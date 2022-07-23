@@ -5,7 +5,7 @@ description: "[14 June 2022] This was my first individual course project in the 
 
 img: assets/img/Bi_vs_Cross-Encoder.png
 importance: 1
-# category:
+category: Courses
 ---
 
 #### Background
