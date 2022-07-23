@@ -3,7 +3,7 @@ layout: page
 title: Neural Information Retrieval 
 description: "[14 June 2022] This was my first individual course project in the field of NLP. Fortunately, my model performed best in the Neural information Retrieval course offered in 2022 at the University of Copenhagen".
 
-img: assets/img/Bi_vs_Cross-Encoder.png
+img: assets/img/7.jpg
 importance: 1
 # category:
 ---
