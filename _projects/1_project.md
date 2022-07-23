@@ -3,12 +3,12 @@ layout: page
 title: Neural Information Retrieval 
 description: "[14 June 2022] This was my first individual course project in the field of NLP. Fortunately, my model performed best in the Neural information Retrieval course offered in 2022 at the University of Copenhagen."
 
-img: assets/img/7.jpg
+img: assets/img/Bi_vs_Cross-Encoder.png
 importance: 1
 # category:
 ---
 
-### Background
+#### Background
 
 This project was completed under the guidance of the course, <a href="https://github.com/yuqinzhou9/course-neural_information_retrieval/blob/main/NIR_course_description.pdf">Neural Information Retrieval (NIR)</a>, in University of Copenhagen. The goal of this project was to design appropriate strategies for indexing and to explore text retrieval models.
 
