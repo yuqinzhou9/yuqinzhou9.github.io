@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Features, Architecture, Combine Them Together
-description: "[12 June 2022] Word embeddings are powerful even when not accompanied by a neural network model. In this course project, we profiled each Twitter user by word distribution or embeddings, and then did the classfication task by classical machine learning techniques."
+description: "[12 June 2022] Word embeddings are powerful even when not accompanied by a neural network model. In this course project, we profiled each Twitter user by word distribution or embeddings, and then did the classfication task by machine learning techniques."
 
 img: assets/img/tweets_length_per_user.png
 importance: 2
