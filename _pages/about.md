@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hi! I am Yuqin Zhou, a second year Master's student in Information Technology and Cognition at the University of Copenhagen. Prior to Copenhagen, I received my bachelor's degree in English from Tianjin University in 2021.
 
-My current research focuses on multi-modal machine learning supervised by Prof. <a href="https://pan.webis.de/clef22/pan22-web/author-profiling.html">Nora Hollenstein</a>. 
+My current research focuses on multi-modal machine learning supervised by Prof. <a href="https://nors.ku.dk/english/staff/?pure=en/persons/708191">Nora Hollenstein</a>. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
