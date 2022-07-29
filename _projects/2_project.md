@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Features, Architecture, Combine Them Together
-description: "[12 June 2022] Word embeddings are powerful  even when not accompanied by a neural network model. " In this course project, we 
+description: "[12 June 2022] Word embeddings are powerful  even when not accompanied by a neural network model. In this course project, we"
+
 img: assets/img/tweets_length_per_user.png
 importance: 2
 category: Courses
