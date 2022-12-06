@@ -14,6 +14,6 @@ Tensor networks have previously been shown to have potential in language modelin
 plicative Integration RNNs in the sense that the architectures of all of these are, essentially, special cases of that of TTLM
 
 
-The <a href="https://github.com/tensortrainlm/tensortrainlm">code</a> and [report]({{ site.url }}/assets/mydoc.pdf) for this paper are available.
-
-<a class="page-link" href="{{ '/assets/4502_language_modeling_using_tensor.pdf' | prepend: site.baseurl | prepend: site.url }}">report</a>.
+The [report]({{ site.url }}/assets/4502_language_modeling_using_tensor.pdf) and <a href="https://github.com/tensortrainlm/tensortrainlm">code</a>  for this paper are available.
+<!-- 
+<a class="page-link" href="{{ '/assets/4502_language_modeling_using_tensor.pdf' | prepend: site.baseurl | prepend: site.url }}">report</a>. -->
