@@ -5,7 +5,7 @@ description: "[12 June 2022] Word embeddings are powerful even when not accompan
 
 img: assets/img/tweets_length_per_user.png
 importance: 2
-category: Research
+category: Courses
 ---
 
 #### Background
