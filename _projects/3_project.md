@@ -17,4 +17,4 @@ plicative Integration RNNs in the sense that the architectures of all of these a
 The [report]({{ site.url }}/assets/pdf/language_modeling_using_tensor.pdf) and <a href="https://github.com/tensortrainlm/tensortrainlm">code</a>  for this paper are available.
 
 
-<a href="{{ '/assets/pdf/language_modeling_using_tensor.pdf' | prepend: site.baseurl | prepend: site.url }}">report</a>
+<!-- <a href="{{ '/assets/pdf/language_modeling_using_tensor.pdf' | prepend: site.baseurl | prepend: site.url }}">report</a> -->
