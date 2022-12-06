@@ -20,4 +20,4 @@ social: false  # includes social icons at the bottom of the page
 
 Hi! I am Yuqin Zhou, a second year Master's student in Information Technology and Cognition at the University of Copenhagen. Prior to Copenhagen, I received my bachelor's degree in English from <a href="http://www.tju.edu.cn/english/index.htm">Tianjin University</a> in 2021.
 
-My Master's thesis currently focuses on language modeling using <a href="http://hjemmesider.diku.dk/~simonsen/">tensor networks</a> supervised by Prof. <a href="http://hjemmesider.diku.dk/~simonsen/">Jakob Grue Simonsen</a>.
+My Master's thesis currently focuses on language modeling using <a href="https://en.wikipedia.org/wiki/Tensor_network">tensor networks</a> supervised by Prof. <a href="http://hjemmesider.diku.dk/~simonsen/">Jakob Grue Simonsen</a>.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Language Modeling Using Tensor Trains
 description: "[6 Dec 2022] Tensor networks (TNs) are a powerful modeling framework developed for complex quantum systems, and have been recently applied within machine learning.  We propose a novel Tensor Train Language Model, as a first attempt to apply tensor networks on realworld language modeling tasks."
 
 img: assets/pdf/TTLM.pdf
@@ -10,6 +10,10 @@ category: Research
 
 #### Background
 
-This work is the course project of the <a href="https://github.com/yuqinzhou9/course-language_processing_2/blob/main/LP2_course_description.pdf">Lanuage Processing 2 (LP2)</a> at the University of Copenhagen. The project topic is a shared task at <a href="https://pan.webis.de/clef22/pan22-web/author-profiling.html">CLEF 2022</a> about classifying authors as ironic or not depending on their number of tweets with ironic content.  The code and <a href="https://github.com/yuqinzhou9/course-language_processing_2/blob/main/LangII_report.pdf">report</a>  for this paper are available and its abstract is shown below:
+Tensor networks have previously been shown to have potential in language modeling in theory but lack practical evidence support. We propose a novel Tensor Train Language Model (TTLM) based on Tensor-Train decomposition. To show the usefulness of TTLM, we perform a principled experimental evaluation on real-world language modeling tasks, showing that our proposed variants, TTLM-Large and TTLM-Tiny, can be more effective than Vanilla RNNs with low-scale of hidden sizes. Also, we demonstrate the relationship between TTLM and Second-order Recurrent Neural Networks (RNNs), Recurrent Arithmetic Circuits, and Multi-
+plicative Integration RNNs in the sense that the architectures of all of these are, essentially, special cases of that of TTLM
 
-This research uses <a href="https://pan.webis.de/clef22/pan22-web/author-profiling.html">the CLEF 2022 dataset</a> to profile ironic and stereotype spreaders on Twitter, representing their tweets at three levels: naive features, sparse vectors, and embeddings. We employ three classic machine learning classifiers (logistic regression, support vector machine, and random forest), as well as a new architecture dubbed the voting model, to combine the strength of each feature. The findings highlight the merit of embeddings, which include subword-level information in particular. Furthermore, depending on the classifier’s mechanism, the quality of the features will affect the classifiers to varying degrees.
+
+The <a href="https://github.com/tensortrainlm/tensortrainlm">code</a> and [report]({{ site.url }}/assets/mydoc.pdf) for this paper are available.
+
+<a class="page-link" href="{{ '/assets/4502_language_modeling_using_tensor.pdf' | prepend: site.baseurl | prepend: site.url }}">report</a>.
