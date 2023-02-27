@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "QRPLM: Query Reformulation using Pre-trained Language Model with Reinforcement Learning"
-description: "[10 Jun 2022] We address the persistent issue of query-document mismatch in sparse retrieval by leveraging reinforcement learning and a pre-trained model"
+description: "We address the persistent issue of query-document mismatch in sparse retrieval by leveraging reinforcement learning and a pre-trained model. The paper is under review in SIGIR."
 
 img: assets/img/QRPLM.png
 importance: 1
