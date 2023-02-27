@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Towards Language Modeling Using Tensor Trains
-description: "[6 Dec 2022] Tensor networks (TNs) are a powerful modeling framework developed for complex quantum systems, and have been recently applied within machine learning.  We propose a novel Tensor Train Language Model, as an illustration of how tensor networks can be applied to real-world language modeling datasets."
+description: "[6 Dec 2022] Tensor networks are a powerful modeling framework developed for complex quantum systems, and have been recently applied within machine learning.  We propose a novel Tensor Train Language Model, as an illustration of how tensor networks can be applied to real-world language modeling datasets."
 
 img: assets/img/TTLM.png
 importance: 2

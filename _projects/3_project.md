@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "QRPLM: Query Reformulation using Pre-trained Language Model with Reinforcement Learning"
-description: "[6 Dec 2022] Tensor networks (TNs) are a powerful modeling framework developed for complex quantum systems, and have been recently applied within machine learning.  We propose a novel Tensor Train Language Model, as a first attempt to apply tensor networks on realworld language modeling tasks."
+description: "[10 Jun 2022] We address the persistent issue of query-document mismatch in sparse retrieval by leveraging reinforcement learning and a pre-trained model"
 
-img: assets/pdf/TTLM.pdf
+img: assets/img/QRPLM.png
 importance: 1
 category: Research
 ---
