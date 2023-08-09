@@ -15,7 +15,7 @@
       year: 2021-09 – Present
       description:
         - "Grade: 10.0/12.0."
-        - title: "Relevant Modules: Scientific Programming, Introduction to Data Science, Language Processing 1/2, Cognitive Science 1/2, Vision and Image Processing, Machine learning, and Neural Information Retrieval."
+        - "Relevant Modules: Scientific Programming, Introduction to Data Science, Language Processing 1/2, Cognitive Science 1/2, Vision and Image Processing, Machine learning, and Neural Information Retrieval."
 
     - title: BA in English, Tianjin University
       year: 2017-09 - 2021-06
@@ -26,17 +26,16 @@
         - title: "Thesis: <i>Difference in Use of English Article System by Chinese and English Native Users Based on Semantic Wheel.</i>"
           contents:
             - Awarded the <b>Outstanding Undergraduate Thesis.</b>
-        - title: "Relevant Modules: Syntax 1/2, Introduction to Linguistics, Fundamentals of Computer Software, Introduction of Advanced Mathematics."
+        - "Relevant Modules: Syntax 1/2, Introduction to Linguistics, Fundamentals of Computer Software, Introduction of Advanced Mathematics."
 
 - title: Academic Experience
   type: time_table
   contents:
-    - title: Participant, Data and Policy Summer Scholar Online Program.
+    - title: Research Assistant, Privacy Loss Project.
       institution: Department of computer science, University of Copenehagen. 
-      year: 2020-07 - 2020-09
+      year: 2023-07 - Present
       description:
-        - "Enhanced statistical and R programming skills through two seven-week courses."
-        - "Engaged in one policy research project: the correlation between revenue and territorial control in Afghanistan."
+        - "Analyzed web tracking data to unveil the evolution of commercial user surveillance, evealing the impact of political, economic, and demographic forces."
     
     - title: Participant, Data and Policy Summer Scholar Online Program.
       institution: University of Chicago, U.S.
