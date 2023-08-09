@@ -11,27 +11,22 @@
 - title: Education
   type: time_table
   contents:
-    - title: University of Copenhagen - MSc in Information Technology and Cognition.
-      year: 2021 - NOW
+    - title: MSc in Information Technology and Cognition, University of Copenhagen
+      year: 2021-09 – Present
       description:
-        - "Grade: 11.0/12.0."
-        - title: "Relevant Modules:"
-          contents:
-            - Scientific Programming, Introduction to Data Science, Language Processing 1/2, Cognitive Science 1/2, Vision and Image Processing, Neural Information Retrieval.
+        - "Grade: 10.0/12.0."
+        - title: "Relevant Modules: Scientific Programming, Introduction to Data Science, Language Processing 1/2, Cognitive Science 1/2, Vision and Image Processing, Machine learning, and Neural Information Retrieval."
 
-    - title: Tianjin University - BA in English
-      year: 2017-2021
+    - title: BA in English, Tianjin University
+      year: 2017-09 - 2021-06
       description:
         - title: "Grade: 3.72/4.0 (top 20%)."
           contents:
             - Awarded the <b>Merit Scholarship</b>.
-        - title: "Thesis:"
+        - title: "Thesis: "<i>Difference in Use of English Article System by Chinese and English Native Users Based on Semantic Wheel.</i>
           contents:
-            - <i>Difference in Use of English Article System by Chinese and English Native Users Based on Semantic Wheel</i>.
-            - Awarded the <b>Outstanding Undergraduate Thesis</b>.
-        - title: "Relevant Modules:"
-          contents: 
-            - Syntax 1/2, Introduction to Linguistics, Fundamentals of Computer Software, Introduction of Advanced Mathematics.
+            - Awarded the <b>Outstanding Undergraduate Thesis.</b>
+        - title: "Relevant Modules: Syntax 1/2, Introduction to Linguistics, Fundamentals of Computer Software, Introduction of Advanced Mathematics."
 
 - title: Academic Experience
   type: time_table
@@ -43,14 +38,14 @@
         - "Enhanced statistical and R programming skills through two seven-week courses."
         - "Engaged in one policy research project: the correlation between revenue and territorial control in Afghanistan."
     
-    - title: Team Leader, National College Students Innovation and Entrepreneurship Project.
+    - title: Team Leader, National College Students Innovation and Entrepreneurship Project
       institution: Tianjin University, China
       year: 2019-04 – 2020-06
       description:
         - Analyzed the translation strategies of Louis Cha’s four martial arts novels Louis.
         - Focused on relationships between proper words regarding place, name, and chivalrous theme.
 
-    - title: Participant, Social Science Methods and Research Training Program.
+    - title: Participant, Social Science Methods and Research Training Program
       institution: Peking University, China
       year: 2019-06 - 2019-07
       description:
@@ -61,7 +56,7 @@
   type: time_table
   contents:
     - title: Research Intern
-      institution: International Cooperation Center of National Development and Reform Commission, China.
+      institution: International Cooperation Center of National Development and Reform Commission, China
       year: 2021-02 - 2021-06
       description:
         - Helped to evaluate projects and development plans for local governments
@@ -78,7 +73,7 @@
   type: list
   contents:
     - <u>Programming Languages:</u> Python, R.
-    - <u>Frameworks and Tools:</u> PyTorch, NumPy, Matplotlib, Pandas, Git, LaTeX, Microsoft Suite, PRAAT.
+    - <u>Frameworks and Tools:</u> PyTorch, Wandb, Hydra, PyTorch Lightning,  NumPy, Matplotlib, Pandas, Git, LaTeX, Microsoft Suite, PRAAT.
     - <u>Hobbies:</u> Badminton (College Badminton Team Member), Swimming, Bicycling.
 
 
