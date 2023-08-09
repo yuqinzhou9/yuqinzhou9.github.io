@@ -23,7 +23,7 @@
         - title: "Grade: 3.72/4.0 (top 20%)."
           contents:
             - Awarded the <b>Merit Scholarship</b>.
-        - title: "Thesis: "<i>Difference in Use of English Article System by Chinese and English Native Users Based on Semantic Wheel.</i>
+        - title: "Thesis: <i>Difference in Use of English Article System by Chinese and English Native Users Based on Semantic Wheel.</i>"
           contents:
             - Awarded the <b>Outstanding Undergraduate Thesis.</b>
         - title: "Relevant Modules: Syntax 1/2, Introduction to Linguistics, Fundamentals of Computer Software, Introduction of Advanced Mathematics."
@@ -31,6 +31,13 @@
 - title: Academic Experience
   type: time_table
   contents:
+    - title: Participant, Data and Policy Summer Scholar Online Program.
+      institution: Department of computer science, University of Copenehagen. 
+      year: 2020-07 - 2020-09
+      description:
+        - "Enhanced statistical and R programming skills through two seven-week courses."
+        - "Engaged in one policy research project: the correlation between revenue and territorial control in Afghanistan."
+    
     - title: Participant, Data and Policy Summer Scholar Online Program.
       institution: University of Chicago, U.S.
       year: 2020-07 - 2020-09
