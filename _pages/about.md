@@ -24,4 +24,3 @@ Hi! I am Yuqin Zhou, a second year Master's student in Information Technology an
 I currently serve as a research assistant in the 'Privacy Lost' project under the guidance of Prof. Prof. <a href="http://hjemmesider.diku.dk/~simonsen/">Jakob Grue Simonsen</a> and Prof. <a href="https://comm.ku.dk/staff/?pure=en/persons/149580">Rasmus Helles</a>. The project aims to uncover how commercial surveillance of web users has developed, and how political, economic and demographic factors have shaped it.
 
 My Master's thesis focuses on language modeling using <a href="https://en.wikipedia.org/wiki/Tensor_network">tensor networks</a> supervised by Prof. <a href="http://hjemmesider.diku.dk/~simonsen/">Jakob Grue Simonsen</a>.
-
