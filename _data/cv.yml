@@ -12,10 +12,10 @@
   type: time_table
   contents:
     - title: MSc in Information Technology and Cognition, University of Copenhagen
-      year: 2021-09 – Present
+      year: 2021-09 – 2023-10
       description:
         - "Grade: 10.3/12.0."
-        - "Relevant Modules: Scientific Programming, Introduction to Data Science, Language Processing 1/2, Cognitive Science 1/2, Vision and Image Processing, Machine learning, and Neural Information Retrieval."
+        - "Courses: Scientific Programming, Introduction to Data Science, Language Processing 1/2, Cognitive Science 1/2, Vision and Image Processing, Machine learning, and Neural Information Retrieval."
 
     - title: BA in English (Linguistic track), Tianjin University
       year: 2017-09 - 2021-07
@@ -26,14 +26,14 @@
         - title: "Thesis: <i>Difference in Use of English Article System by Chinese and English Native Users Based on Semantic Wheel.</i>"
           contents:
             - Awarded the <b>Outstanding Undergraduate Thesis.</b>
-        - "Relevant Modules: Syntax 1/2, Introduction to Linguistics, Fundamentals of Computer Software, Introduction of Advanced Mathematics."
+        - "Courses: Syntax 1/2, Introduction to Linguistics, Fundamentals of Computer Software, Introduction of Advanced Mathematics."
 
 - title: Academic Experience
   type: time_table
   contents:
     - title: Research Assistant, Privacy Loss Project.
       institution: Department of computer science, University of Copenehagen. 
-      year: 2023-07 - Present
+      year: 2023-07 - now
       description:
         - "Analyzed web tracking data to unveil the evolution of commercial user surveillance, evealing the impact of political, economic, and demographic forces."
     
