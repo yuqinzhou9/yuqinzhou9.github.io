@@ -1,10 +1,9 @@
 ---
 layout: cv
-permalink: {{ site.url }}/assets/pdf/cv.pdf
+permalink: /cv/
 title: Curriculum Vitae
-# redirect_to: {{ site.url }}/assets/pdf/cv.pdf
 
-nav: true
+nav: false
 nav_order: 2
 cv_pdf: cv.pdf
 ---
