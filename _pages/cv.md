@@ -5,5 +5,5 @@ title: Curriculum Vitae
 
 nav: true
 nav_order: 2
-cv_pdf: cv_230809.pdf
+cv_pdf: cv.pdf
 ---
