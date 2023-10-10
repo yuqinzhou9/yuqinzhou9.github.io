@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Yuqin Zhou, a second year Master's student in Information Technology and Cognition at the  <a href="https://www.ku.dk/english/">University of Copenhagen</a>. Prior to Copenhagen, I received my bachelor's degree in English (Linguistics track) from <a href="http://www.tju.edu.cn/english/index.htm">Tianjin University</a> in 2021.
+Hi! I am a second year Master's student in Information Technology and Cognition at the  <a href="https://www.ku.dk/english/">University of Copenhagen</a>. Prior to Copenhagen, I received my bachelor's degree in English (Linguistics track) from <a href="http://www.tju.edu.cn/english/index.htm">Tianjin University</a> in 2021.
 
 My [Master's thesis (completed) ]({{ site.url }}/assets/pdf/Thesis__Tensor_Networks_for_Language_Modeling.pdf) focuses on language modeling using tensor networks supervised by Prof. <a href="http://hjemmesider.diku.dk/~simonsen/">Jakob Grue Simonsen</a>.
 
