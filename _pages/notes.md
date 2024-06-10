@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Notes
-permalink: /projects/
-description: "Hi! Here are some of the projects I have worked on:"
+permalink: /notes/
+description: "Hi! Here are some of the courses I have learned:"
 nav: true
 nav_order: 1
 display_categories: [Research, Courses]
