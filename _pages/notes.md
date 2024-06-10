@@ -4,7 +4,7 @@ title: Notes
 permalink: /notes/
 description: "Hi! Here are some of the courses I have learned:"
 nav: true
-nav_order: 1
+nav_order: 2
 display_categories: [Research, Courses]
 horizontal: false
 ---
