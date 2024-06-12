@@ -5,7 +5,7 @@ permalink: /notes/
 description: "Hi! Here are some of the courses I have learned:"
 nav: true
 nav_order: 2
-display_categories: [Research, Courses]
+display_categories: [Math, Artificial Intelligence, Computer Science]
 horizontal: false
 ---
 
