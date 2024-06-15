@@ -3,7 +3,7 @@ layout: page
 title: Notes
 permalink: /notes/
 description: |
-  Hi there! I'm going to share the skills and knowledge I've picked up at university and through independent study here. I'm doing this for two reasons. First, I hope that these notes can make a good first impression. I want to show that I am a person who is professional in my field of research.  
+  Hi there! I'm going to share the skills and knowledge I've picked up at university and through independent study here. I'm doing this for two reasons. First, I want these notes to help me make a good first impression. Being a professional in my field of research is cool. 
 
   Second, there are so many great resources out there for beginners in most areas, including the one I'm discussing here. However, despite these excellent teachers, there might be a lack of "classmates" for those who have to study majors by themselves. I hope that anyone who wants to learn more about the subjects will see me as a classmate who is also learning these courses and find useful information from these materials. If you have any questions, please send me an email.  
 nav: true
